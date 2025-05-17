@@ -4,6 +4,26 @@
 
 # The Pixel Project Changelog
 
+## Version: 2.2
+
+**Security Patch:** A15 QPR2 May
+
+### Changelog:
+
+-   SystemUI: Implement burn-in protection for status/navbar
+-   fixup! SystemUI: Add double tap to sleep gesture
+-   SystemUI: Integrate Google Lens into Screenshot UI
+-   Allow to suppress notifications sound/vibration if screen is ON
+-   PowerShareTile: Migrate to AIDL PowerShare HAL
+-   SystemUI: Put bare minimum metadata in screenshots
+-   SystemUI: Ongoing action progressbar chip implementation
+-   SystemUI: Optional haptic feedback on back gesture
+-   SettingsLib: Redesign seekbar according to M3 slider
+-   Settings: Add a toggle to force LTE CA
+-   Settings: Optional haptic feedback on back gesture
+-   vendor: prebuilt: import screenshot sound from vendor/prebuilt
+-   Various System Patches for NPE'S and Performance fixes 
+
 ## Version: 2.1
 
 **Security Patch:** A15 QPR2 April
